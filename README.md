@@ -6,5 +6,5 @@
 - 💬 Ask me about software testing
 - 📫 How to reach me: kavindagihanabc@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to have night walks in the middlenight when nobody is there 
+- ⚡ Fun fact: I love to have  walks in the middlenight when nobody is there 
 
