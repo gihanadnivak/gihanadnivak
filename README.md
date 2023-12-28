@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Research Project
-- 🌱 I’m currently learning Cloud Computing
+- 🔭 I’m Actively looking for an internship 
+- 🌱 I’m currently learning Test Automation
 - 🤔 I’m looking for help with fixing problems
 - 💬 Ask me about software testing
 - 📫 How to reach me: kavindagihanabc@gmail.com
